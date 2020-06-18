@@ -1,0 +1,22 @@
+[
+    {
+        "name": "simple/simple-php",
+        "version": "0.0.1",
+        "version_normalized": "0.0.1.0",
+        "dist": {
+            "type": "path",
+            "url": "../simple-php",
+            "reference": "ae036ca293e7e6d3da025ac16b547ab67cc2fe53"
+        },
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Simple\\": "src/"
+            }
+        },
+        "transport-options": {
+            "relative": true
+        }
+    }
+]

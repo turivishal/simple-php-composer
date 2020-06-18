@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../simple-php"
+        }
+    ],
+    "require": {
+        "simple/simple-php": "0.0.1"
+    }
+}
